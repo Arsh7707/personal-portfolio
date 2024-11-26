@@ -6,7 +6,7 @@ import { BsGearFill } from "react-icons/bs"; // For Bash/Assembly as placeholder
 const Skills = () => {
     return (
         <div id="skills" className="text-center my-10">
-            <h2 className="text-2xl font-bold mb-6">Skills</h2>
+            <h1 className="py-4 text-4xl font-bold text-center text-[#001b5e]">Skills</h1>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-10 justify-items-center">
                 <div className="flex flex-col items-center group">
                     <FaJs className="text-yellow-500 text-5xl group-hover:animate-bounce" />

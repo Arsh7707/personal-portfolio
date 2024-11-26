@@ -13,15 +13,19 @@ const Project = () => {
             </p>
             <div className='grid sn:grid-cols-3 gap-12'>
 
-                <a href="https://github.com/Arsh7707/Project1-Meditation" target="_blank">
-                    <ProjectItem img={meditationImg} title="Meditation App" />
-                </a>
-                <a href="https://github.com/Arsh7707/Rasterization-and-shading" target="_blank">
-                    <ProjectItem img={rasterizeImg} title="Rasterization Project" />
-                </a>
                 <a href="https://github.com/Arsh7707/Article-Summarizer" target="_blank">
                     <ProjectItem img={gptImg} title="Article Summarizer" />
                 </a>
+
+                <a href="https://github.com/Arsh7707/Rasterization-and-shading" target="_blank">
+                    <ProjectItem img={rasterizeImg} title="Rasterization Project" />
+                </a>
+
+                <a href="https://github.com/Arsh7707/Project1-Meditation" target="_blank">
+                    <ProjectItem img={meditationImg} title="Meditation App" />
+                </a>
+               
+
 
 
 
