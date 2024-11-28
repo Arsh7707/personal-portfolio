@@ -13,7 +13,7 @@ const Project = () => {
             </p>
             <div className='grid sn:grid-cols-3 gap-12'>
 
-                <a href="https://github.com/Arsh7707/Article-Summarizer" target="_blank">
+                <a href="https://github.com/Arsh7707/AI-Summarizer" target="_blank">
                     <ProjectItem img={gptImg} title="Article Summarizer" />
                 </a>
 
