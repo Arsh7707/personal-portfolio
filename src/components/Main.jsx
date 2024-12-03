@@ -38,7 +38,7 @@ const Main = () => {
                         <a href="https://www.instagram.com/arshjot_dua/" target="_blank" rel="noopener noreferrer">
                             <FaInstagram size={21} className="cursor-pointer hover:scale-110 ease-in duration-200" />
                         </a>
-                        <a href = "https://drive.google.com/file/d/1DGXl_8EqCJQ8Xjt7rx3MCcl6i7mZ53Ab/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+                        <a href = "https://drive.google.com/file/d/1mMYy7CgLvkpQsi87RG6F7FnLdnszztsq/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                             <IoIosDocument size={21} className="cursor-pointer hover:scale-110 ease-in duration-200" />
 
                         </a>
